@@ -12,4 +12,3 @@
 - [Discord](https://discord.gg/ahxyCMT8bM)
 - [Donate](https://www.paypal.com/donate/?hosted_button_id=9WKETML4G9JHE)
 
-![SimpleMobRide](https://github.com/JavaDevMC/images/blob/main/simplemobridelogo.png?raw=true)
