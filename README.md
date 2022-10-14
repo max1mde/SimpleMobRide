@@ -8,6 +8,6 @@
 4. Now you can rightclick every mob to ride it
 ```
 
-- [SpigotMC](soon...)
+- [SpigotMC](https://www.spigotmc.org/resources/simple-mob-ride-1-8-1-19.105768/)
 - [Discord](https://discord.gg/ahxyCMT8bM)
 - [Donate](https://www.paypal.com/donate/?hosted_button_id=9WKETML4G9JHE)
