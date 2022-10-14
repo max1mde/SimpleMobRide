@@ -1,4 +1,4 @@
-# Simple Mob Ride ![SimpleMobRide](https://github.com/JavaDevMC/images/blob/main/simplemobridelogo.png?raw=true)
+# Simple Mob Ride
 
 ## Setup
 ```xml
@@ -11,3 +11,5 @@
 - [SpigotMC](https://www.spigotmc.org/resources/simple-mob-ride-1-8-1-19.105768/)
 - [Discord](https://discord.gg/ahxyCMT8bM)
 - [Donate](https://www.paypal.com/donate/?hosted_button_id=9WKETML4G9JHE)
+
+![SimpleMobRide](https://github.com/JavaDevMC/images/blob/main/simplemobridelogo.png?raw=true)
