@@ -1,4 +1,4 @@
-# Simple Mob Ride
+# Simple Mob Ride ![SimpleMobRide](https://github.com/JavaDevMC/images/blob/main/simplemobridelogo.png?raw=true)
 
 ## Setup
 ```xml
