@@ -1,6 +1,7 @@
 ## Simple Mob Ride
-```xml
+
 # Setup
+```xml
 1. Download the plugin
 2. Copy the plugin to the plugins folder on your server
 3. Restart your server
